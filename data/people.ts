@@ -40,7 +40,7 @@ export const peopleGroups: PeopleGroup[] = [
   },
   {
     title: "Computational scientists and research staff",
-    current: [],
+    current: [Sandhiya Ravi],
     alumni: [],
   },
   {
