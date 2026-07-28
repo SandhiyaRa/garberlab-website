@@ -5,4 +5,4 @@ Example:
 1. Add a file named `jane-doe.jpg` here.
 2. In `data/people.ts`, add `image: "/people/jane-doe.jpg"` to that person's entry.
 
-Square or portrait photos work best.
+Square or portrait photos work best. 
